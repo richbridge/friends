@@ -1,0 +1,148 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "张洪Heo",
+      "url": "https://blog.zhheo.com/",
+      "icon": "https://blog.zhheo.com/img/favicon4.0.webp",
+      "snapshot": "",
+      "description": "产品设计师、独立开发者、设计与科技领域自媒体博主",
+      "feed": "https://blog.zhheo.com/rss.xml",
+      "posts": [
+        {
+          "title": "图片格式怎么选：JPEG XL、AVIF、WebP、HEIF 的科普与取舍",
+          "link": "https://blog.zhheo.com/p/gev3cm0t.html",
+          "published": "2026-10-29 15:25"
+        },
+        {
+          "title": "iOS27.2支持禁止应用使用摇一摇广告了，不影响导航软件和视频软件",
+          "link": "https://blog.zhheo.com/p/wwo2eeec.html",
+          "published": "2026-10-27 10:50"
+        },
+        {
+          "title": "EncoDeck 上手：Windows 上的多品牌耳机控制中心，不用再为切降噪拿起手机",
+          "link": "https://blog.zhheo.com/p/g10nqrgd.html",
+          "published": "2026-10-26 13:10"
+        }
+      ],
+      "issue_number": 2,
+      "labels": [
+        {
+          "name": "技术先锋",
+          "color": "b60205",
+          "hue": 359,
+          "saturation": 98,
+          "lightness": 36
+        }
+      ]
+    },
+    {
+      "title": "杜老师说",
+      "url": "https://dusays.com",
+      "description": "师者，传道，授业，解惑！",
+      "icon": "https://cdn.dusays.com/avatar.png",
+      "snapshot": "https://bu.dusays.com/2020/11/13/0eccf1ca0dc4b.jpg",
+      "feed": "https://dusays.com/atom.xml",
+      "posts": [
+        {
+          "title": "PHP 性能优化，以及用 FastCGI 缓存加速 PHP 页面",
+          "link": "https://dusays.com/posts/895/",
+          "published": "2026-10-29 00:00"
+        },
+        {
+          "title": "国产数据库迁移：真正花时间的从来不是搬数据",
+          "link": "https://dusays.com/posts/894/",
+          "published": "2026-10-23 00:00"
+        },
+        {
+          "title": "说说广场 API 0.31.0 版的调用代码说明",
+          "link": "https://dusays.com/posts/893/",
+          "published": "2026-10-17 00:00"
+        }
+      ],
+      "issue_number": 3,
+      "labels": []
+    },
+    {
+      "title": "1900'Blog",
+      "url": "https://1900.live",
+      "icon": "https://gcore.jsdelivr.net/gh/cdn-x/xaoxuu@main/posts/20250706180540021.png",
+      "screenshot": "",
+      "description": "All work and no play makes Jack a dull boy",
+      "feed": "https://1900.live/rss/",
+      "posts": [
+        {
+          "title": "走大朝台我在想啥？二",
+          "link": "https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-er/",
+          "published": "2026-10-23 20:40"
+        },
+        {
+          "title": "293、霜降",
+          "link": "https://1900.live/293-shuang-jiang/",
+          "published": "2026-10-23 16:59"
+        },
+        {
+          "title": "走大朝台我在想啥？一",
+          "link": "https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-yi/",
+          "published": "2026-10-22 12:40"
+        }
+      ],
+      "issue_number": 4,
+      "labels": []
+    },
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "icon": "https://cn.cravatar.com/avatar/adb7d1cd192658a55c0ad22a3309cecf?s=256",
+      "snapshot": "https://bu.dusays.com/2022/10/23/63542895cfd29.png",
+      "description": "For all time, always.",
+      "feed": "https://xaoxuu.com/atom.xml",
+      "posts": [
+        {
+          "title": "Stellar 为什么没能火起来",
+          "link": "https://xaoxuu.com/blog/20260815/",
+          "published": "2026-08-15 02:14"
+        },
+        {
+          "title": "梦境：无法定格的偶遇",
+          "link": "https://xaoxuu.com/blog/20260801/",
+          "published": "2026-08-01 15:24"
+        },
+        {
+          "title": "连续两个晚上做梦笑醒",
+          "link": "https://xaoxuu.com/blog/20260226/",
+          "published": "2026-02-26 20:00"
+        }
+      ],
+      "issue_number": 1,
+      "labels": [
+        {
+          "name": "主题作者",
+          "color": "af46bf",
+          "hue": 292,
+          "saturation": 49,
+          "lightness": 51
+        }
+      ]
+    },
+    {
+      "title": "樊尘刹记",
+      "url": "https://richfan.eu.org",
+      "icon": "https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/favicon.ico",
+      "snapshot": "",
+      "description": "红尘湮灭，唯有尘刹",
+      "feed": "https://richfan.eu.org/atom.xml",
+      "posts": [],
+      "issue_number": 5,
+      "labels": [
+        {
+          "name": "本站博主",
+          "color": "0e8a16",
+          "hue": 124,
+          "saturation": 82,
+          "lightness": 30
+        }
+      ]
+    }
+  ]
+}
